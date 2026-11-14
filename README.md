@@ -1,4 +1,4 @@
-# Jelly Arrow Escape: Tap Away — Official Support & Privacy Policy
+# Jelly Arrow Escape: Tap Puzzle — Official Support & Privacy Policy
 
 Official public web pages for **Jelly Arrow Escape** (`com.tariqniaz.arrowescape`), developed by **Tariq Niaz**.
 

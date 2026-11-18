@@ -875,5 +875,4 @@ start.io, 131192070, RESELLER
 bid-matrix.com, f2c71a45ea149366, RESELLER
 playdigo.com, 1965, RESELLER
 prado.co, 14260, RESELLER
-# Meta Audience Network (add your real Property/Business seller ID from Meta Monetization Manager -> app-ads.txt):
-# facebook.com, <YOUR_META_PUBLISHER_ID>, DIRECT, c3e20eee3f780d68
+facebook.com, 1962159331427986, DIRECT, c3e20eee3f780d68

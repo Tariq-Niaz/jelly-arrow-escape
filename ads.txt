@@ -1,3 +1,5 @@
+OWNERDOMAIN=tariq-niaz.github.io
+ironsrc.com, 687437, DIRECT
 google.com, pub-9012747777817473, DIRECT, f08c47fec0942fa0
 vungle.com,6af889a7efb36623c2601df1,DIRECT,c107d686becd2d77
 33across.com,001Pg0000197KcKIAU,RESELLER,bbea06d9c4d2853c
